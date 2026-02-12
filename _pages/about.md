@@ -9,9 +9,30 @@ redirect_from:
 
 I am now a postdoctoral research in Center for Computational Biomedicine, Department of Genetics, University of Pennsylvania. 
 
-![Photo](/images/iShot_2026-02-12_12.44.51.png)
 
 
+
+<div style="display:flex; gap:24px; align-items:flex-start; flex-wrap:wrap; margin: 20px 0;">
+  <!-- Left: text -->
+  <div style="flex: 1 1 520px; min-width: 280px;">
+    <h2 style="margin-top:0;">Research</h2>
+    <ul>
+      <li>I am now a postdoctoral research in Center for Computational Biomedicine, Department of Genetics, University of Pennsylvania. </li>
+    </ul>
+
+
+  </div>
+
+  <!-- Right: image -->
+  <div style="flex: 0 0 260px; max-width:260px;">
+    <img src="/images/iShot_2026-02-12_12.44.51.png"
+         alt="Profile photo"
+         style="width:100%; border-radius:14px; box-shadow:0 6px 18px rgba(0,0,0,0.15);">
+  </div>
+</div>
+
+
+<img src="/images/iShot_2026-02-12_12.44.51.png" width="500">
 <br>
 
 Research interests
