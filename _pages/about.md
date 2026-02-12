@@ -9,7 +9,7 @@ redirect_from:
 <div style="overflow: hidden; margin-bottom: 20px;">
   
   <div style="float: right; margin-left: 30px; margin-bottom: 10px;">
-    <img src="/images/iShot_2026-02-12_13.07.50.png" alt="Jingjing Li" style="width: 150px; height: 150px; object-fit: cover; border-radius: 50%; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
+    <img src="/images/bio-photo.jpg" alt="Jingjing Li" style="width: 150px; height: 150px; object-fit: cover; border-radius: 50%; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
   </div>
 
   <div style="display: block;">
