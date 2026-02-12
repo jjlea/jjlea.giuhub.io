@@ -10,12 +10,18 @@ redirect_from:
 I am now a postdoctoral research in Center for Computational Biomedicine, Department of Genetics, University of Pennsylvania. 
 
 
+--------------------------
+
 Research 
 ======
 •	Identifying disease-relevant genomic loci and pinpointing causal variants by integrating GWAS and other omics data.
+
 •	Integrating human genetics and single-cell data to reveal candidate genes and their involved biological pathways and cell types associated with complex diseases.
+
 •	Investigating the interplay between human genetics and environmental factors to understand their combined effects on diseases.
 
+
+-------------------------
 
 Selected Publications
 ------
@@ -29,6 +35,7 @@ Selected Publications
 
 •	Yunlong Ma, Chunyu Deng, Yijun Zhou, Yaru Zhang, Fei Qiu, Dingping Jiang, Gongwei Zheng, **Jingjing Li**, Jianwei Shuai, Yan Zhang*, Jian Yang*, and Jianzhong Su*, Polygenic regression uncovers trait-relevant cellular contexts through pathway activation transformation of single-cell RNA sequencing data. **Cell Genomics**, 2023 August 18. 3(9):100383.
 
+-------------------------
 
 Research Fundings
 ======
