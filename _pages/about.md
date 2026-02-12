@@ -27,7 +27,7 @@ redirect_from:
 
 
 Research interests
-======
+------
 •	Identifying disease-relevant genomic loci and pinpointing causal variants by integrating GWAS and other omics data.
 
 •	Integrating human genetics and single-cell data to reveal candidate genes and their involved biological pathways and cell types associated with complex diseases.
@@ -52,7 +52,7 @@ Selected Publications
 <br>
 
 Research Fundings
-======
+------
 •	Linking human single-cell transcriptomics and microbial genetic signals to unravel host-microbe interactions Certificate Number: 2023M732679, funded by China Postdoctoral Science Foundation. 
 
 
